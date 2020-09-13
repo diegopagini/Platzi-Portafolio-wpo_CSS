@@ -1,0 +1,21 @@
+/* reglas
+selectores
+declaraciones
+propiedades
+vaores */
+
+header /*esto es un selector */  
+  background: pink;
+  color: red;
+   /*"background" es una propiedad y "pink" es un vaor*/
+ /*esto es una declaracion */
+todo eso es una regla
+
+/* selector de etiqueta, por ejemplo: header, section, article, nav. */
+/* selector descendente por ejemplo: body header div nav ol li a  */
+/* selector de clase (id) por ejemplo = " nombre " o con un . */
+
+/* . link */
+
+/* selector de id # */
+/* #portafolio */
